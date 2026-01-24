@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-09)
+## Unreleased (2026-01-24)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`42a21ef`](https://github.com/stdlib-js/stdlib/commit/42a21ef96b20ae2c821330ef5ddf8b1bce032bfc) - **chore:** add missing exports comments _(by Philipp Burckhardt)_
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`1012150`](https://github.com/stdlib-js/stdlib/commit/1012150cdd393f4050502120b0123ed575dcd6de) - **bench:** refactor to use dynamic memory allocation in `stats/strided/dmediansorted` [(#9604)](https://github.com/stdlib-js/stdlib/pull/9604) _(by Vishal Gaikwad, Athan Reines)_
 -   [`8290e90`](https://github.com/stdlib-js/stdlib/commit/8290e903375a2740e5bd11274078d21183d5f1c8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`744337a`](https://github.com/stdlib-js/stdlib/commit/744337aaebfd4a9631f17765bce57a38c5374173) - **refactor:** update paths _(by Gururaj Gurram)_
@@ -38,11 +40,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Gururaj Gurram
+-   Philipp Burckhardt
 -   Vishal Gaikwad
 
 </section>
